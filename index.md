@@ -13,4 +13,4 @@ You can find my open source contributions on [GitHub](https://github.com/mejibyt
 
 You can reach me via email at [andr@esmejia.com](mailto:andr@esmejia.com) or via Twitter at [@mejibyte](https://twitter.com/mejibyte).
 
-![Me](/images/me.jpg)
+![Me](/images/me2.jpg)
