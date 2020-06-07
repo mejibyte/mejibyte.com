@@ -31,6 +31,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [FireEye Poison Ivy analysis](https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-poison-ivy.pdf)
 * [Sam's Class Poison Ivy tutorial](https://samsclass.info/123/proj10/p11-PI.htm)
 * [NCC Poison Ivy analysis](https://www.nccgroup.com/uk/about-us/newsroom-and-events/blogs/2017/august/analysing-a-recent-poison-ivy-sample/)
+* [Fortinet Poison Ivy analysis](https://www.fortinet.com/blog/threat-research/deep-analysis-of-new-poison-ivy-variant)
 
 ## Personal websites
 
