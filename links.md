@@ -29,7 +29,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 
 ## Personal websites
 
-* [swtch.com/~rsc/](https://swtch.com/~rsc/) and [research.swtch.com](https://research.swtch.com): Russ Cox is a crazy smart guy and I really enjoy his methodical, careful writing.
+* [swtch.com/~rsc/](https://swtch.com/~rsc/) and [research.swtch.com](https://research.swtch.com): Russ Cox is an amazingly smart guy and I really enjoy his methodical, careful writing.
 * [stallman.org](https://stallman.org/): Richard Stallman is a legend and his website is a classic. I trully admire this guy's ability to stand his ground. Read [RMS lifestyle](https://stallman.org/rms-lifestyle.html) to see what I mean.  My favorite part of his website is his "What's bad about..." series (e.g. [What's bad about Facebook](https://stallman.org/facebook.html)).
 * [danielmiessler.com](https://danielmiessler.com/)
 * [pjreddie.com](https://pjreddie.com/): Extremely funny. [His resume really takes it to a whole new level](https://pjreddie.com/static/Redmon%20Resume.pdf).
