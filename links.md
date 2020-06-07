@@ -23,6 +23,9 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [http://rom-news.org](http://rom-news.org/): Interesting ASCII art from real-life NFO files ([example](http://rom-news.org/gba/nfo/Pnb_Chizz-GBa_(GuiltyByassociation)-SINGLE-WEB-2017-ENRAGED)).
 * [Ben Newman](https://bennewmanart.bigcartel.com/)
 
+## Web Development
+* [Silk Icons by famfamfam.com](http://famfamfam.com/lab/icons/silk/)
+
 ## Security
 
 * [Poison Ivy RAT analysis](https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-poison-ivy.pdf)
