@@ -26,13 +26,6 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 ## Web Development
 * [Silk Icons by famfamfam.com](http://famfamfam.com/lab/icons/silk/)
 
-## Security
-
-* [FireEye Poison Ivy analysis](https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-poison-ivy.pdf)
-* [Sam's Class Poison Ivy tutorial](https://samsclass.info/123/proj10/p11-PI.htm)
-* [NCC Poison Ivy analysis](https://www.nccgroup.com/uk/about-us/newsroom-and-events/blogs/2017/august/analysing-a-recent-poison-ivy-sample/)
-* [Fortinet Poison Ivy analysis](https://www.fortinet.com/blog/threat-research/deep-analysis-of-new-poison-ivy-variant)
-
 ## Personal websites
 
 * [swtch.com/~rsc/](https://swtch.com/~rsc/) and [research.swtch.com](https://research.swtch.com): Russ Cox is an amazingly smart guy and I really enjoy his methodical, careful writing.
@@ -47,3 +40,11 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [lodownmagazine.com/features/█▬█-█-▀█▀-██▓▒░-♫](http://lodownmagazine.com/features/%E2%96%88%E2%96%AC%E2%96%88-%E2%96%88-%E2%96%80%E2%96%88%E2%96%80-%E2%96%88%E2%96%88%E2%96%93%E2%96%92%E2%96%91-%E2%99%AB)
 * [milliondollarhomepage.com](http://www.milliondollarhomepage.com/): This one has an [interesting story](https://en.wikipedia.org/wiki/The_Million_Dollar_Homepage) behind it.
 * [wreckedexotics.com](http://www.wreckedexotics.com/): Photos of expensive cars wrecked. Posting weekly since 2002. WTF.
+
+## Security
+
+### Poison Ivy
+* [FireEye Poison Ivy analysis](https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-poison-ivy.pdf)
+* [Sam's Class Poison Ivy tutorial](https://samsclass.info/123/proj10/p11-PI.htm)
+* [NCC Poison Ivy analysis](https://www.nccgroup.com/uk/about-us/newsroom-and-events/blogs/2017/august/analysing-a-recent-poison-ivy-sample/)
+* [Fortinet Poison Ivy analysis](https://www.fortinet.com/blog/threat-research/deep-analysis-of-new-poison-ivy-variant)
