@@ -13,7 +13,6 @@ This is just a collection of links to that I find interesting.
 
 These sites take me down memory lane to a time of IRC, FTP servers, GeoCities and Delphi programming.
 
-
 * [The three ASCII Art Styles of the Underground Art Scene](http://www.roysac.com/roy-sac_styles_of_underground_text_art.html), by Roy/SAC: Gorgeous .nfo files.
 * [GeoCities Gallery](https://geocities.restorativland.org/): Talk about nostalgia.
 
@@ -25,7 +24,13 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [pjreddie.com](https://pjreddie.com/): Extremely funny. [His resume really takes it to a whole new level](https://pjreddie.com/static/Redmon%20Resume.pdf).
 
 ## Software
-* [Acme: A user interface for programming](https://research.swtch.com/acme.pdf): This editor has some very interesting ideas.
+### Text Editors
+* [Acme: A user interface for programming](https://research.swtch.com/acme.pdf): A text editor written by Rob Pike. Has some very interesting ideas. You can also see a [video demo by Russ Cox](https://www.youtube.com/watch?v=dP1xVpMPn8M&t=526s).
+* [Xi Editor](https://github.com/xi-editor/xi-editor): I haven't tried out Rust yet, but I am really curious to learn more about this project.
+### Mac
+* [Many Tricks](https://manytricks.com/): A small software company that builds high quality software.
+* [Contexts](https://contexts.co/): This is a mandatory app for Mac users.
+
 
 ## Web Development
 * [Silk Icons by famfamfam.com](http://famfamfam.com/lab/icons/silk/)
