@@ -30,11 +30,15 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Xi Editor](https://github.com/xi-editor/xi-editor): I haven't tried out Rust yet, but I am really curious to learn more about this project.
 
 ### Mac
-* [Many Tricks](https://manytricks.com/): A small software company that builds high quality software.
+* [Many Tricks](https://manytricks.com/): A small software company that builds high quality software for Mac users.
 * [Contexts](https://contexts.co/): This is a mandatory app for Mac users.
 
 
-## Web Development
+## Programming
+
+* [Linus Torvald's first commit on Git](https://git.kernel.org/pub/scm/git/git.git/commit/?id=e83c5163316f89bfbde7d9ab23ca2e25604af290): Extremely interesting read. ([Hacker News thread.](https://news.ycombinator.com/item?id=8650483))
+
+### Web Development
 * [Silk Icons by famfamfam.com](http://famfamfam.com/lab/icons/silk/)
 
 ## Security
