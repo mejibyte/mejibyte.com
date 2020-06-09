@@ -47,9 +47,10 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Chico Buarque's Notebooks](http://www.jobim.org/chico/handle/2010.2/1843) (Portuguese)
 
 ## Aesthetics, Art, Illustration
-
-* [http://blocktronics.org](http://blocktronics.org/): Love this gallery.
+* [http://blocktronics.org](http://blocktronics.org/): ANSI art. I love this gallery.
 * [http://rom-news.org](http://rom-news.org/): Interesting ASCII art from real-life NFO files ([example](http://rom-news.org/gba/nfo/Pnb_Chizz-GBa_(GuiltyByassociation)-SINGLE-WEB-2017-ENRAGED)).
+### Artists
+* [Elby Draws](https://linktr.ee/elby.draws)
 * [Ben Newman](https://bennewmanart.bigcartel.com/)
 
 ## WTF
