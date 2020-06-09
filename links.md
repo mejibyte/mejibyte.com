@@ -24,9 +24,11 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [pjreddie.com](https://pjreddie.com/): Extremely funny. [His resume really takes it to a whole new level](https://pjreddie.com/static/Redmon%20Resume.pdf).
 
 ## Software
+
 ### Text Editors
 * [Acme: A user interface for programming](https://research.swtch.com/acme.pdf): A text editor written by Rob Pike. Has some very interesting ideas. You can also see a [video demo by Russ Cox](https://www.youtube.com/watch?v=dP1xVpMPn8M&t=526s).
 * [Xi Editor](https://github.com/xi-editor/xi-editor): I haven't tried out Rust yet, but I am really curious to learn more about this project.
+
 ### Mac
 * [Many Tricks](https://manytricks.com/): A small software company that builds high quality software.
 * [Contexts](https://contexts.co/): This is a mandatory app for Mac users.
@@ -49,6 +51,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 ## Aesthetics, Art, Illustration
 * [http://blocktronics.org](http://blocktronics.org/): ANSI art. I love this gallery.
 * [http://rom-news.org](http://rom-news.org/): Interesting ASCII art from real-life NFO files ([example](http://rom-news.org/gba/nfo/Pnb_Chizz-GBa_(GuiltyByassociation)-SINGLE-WEB-2017-ENRAGED)).
+
 ### Artists
 * [Elby Draws](https://linktr.ee/elby.draws)
 * [Ben Newman](https://bennewmanart.bigcartel.com/)
