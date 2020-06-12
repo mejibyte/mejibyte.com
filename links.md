@@ -47,6 +47,8 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 
 ## Security
 
+* [MD5 collisions, visualized](https://www.links.org/?p=6)
+
 ### Poison Ivy
 * [FireEye Poison Ivy analysis](https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-poison-ivy.pdf)
 * [Sam's Class Poison Ivy tutorial](https://samsclass.info/123/proj10/p11-PI.htm)
