@@ -45,6 +45,12 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 ### Web Development
 * [Silk Icons by famfamfam.com](http://famfamfam.com/lab/icons/silk/)
 
+## Keyboards
+
+* [Key64](https://www.key64.org/): Made by another Colombian!
+* [Ergodox](https://www.ergodox.io/)
+* [The Humble Hacker Keyboard](http://www.humblehacker.com/keyboard/)
+
 ## Security
 
 * [MD5 collisions, visualized](https://www.links.org/?p=6)
