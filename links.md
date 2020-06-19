@@ -51,6 +51,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Ergodox](https://www.ergodox.io/)
 * [The Humble Hacker Keyboard](http://www.humblehacker.com/keyboard/)
 * [Dactyl](https://github.com/adereth/dactyl-keyboard)
+* [List of Split Keyboards](https://github.com/diimdeep/awesome-split-keyboards)
 
 ## Security
 
@@ -81,3 +82,4 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [lodownmagazine.com/features/█▬█-█-▀█▀-██▓▒░-♫](http://lodownmagazine.com/features/%E2%96%88%E2%96%AC%E2%96%88-%E2%96%88-%E2%96%80%E2%96%88%E2%96%80-%E2%96%88%E2%96%88%E2%96%93%E2%96%92%E2%96%91-%E2%99%AB)
 * [milliondollarhomepage.com](http://www.milliondollarhomepage.com/): This one has an [interesting story](https://en.wikipedia.org/wiki/The_Million_Dollar_Homepage) behind it.
 * [wreckedexotics.com](http://www.wreckedexotics.com/): Photos of expensive cars wrecked. Posting weekly since 2002. WTF.
+* [XKCD Matplotlib](https://matplotlib.org/3.2.1/gallery/showcase/xkcd.html): Render graphs in Matlab that look like they're from XKCD!
