@@ -28,6 +28,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 ### Text Editors
 * [Acme: A user interface for programming](https://research.swtch.com/acme.pdf): A text editor written by Rob Pike. Has some very interesting ideas. You can also see a [video demo by Russ Cox](https://www.youtube.com/watch?v=dP1xVpMPn8M&t=526s).
 * [Xi Editor](https://github.com/xi-editor/xi-editor): I haven't tried out Rust yet, but I am really curious to learn more about this project.
+* [i3](https://i3wm.org/): Not an editor, but handles windows like I wished editors did.
 
 ### Mac
 * [Many Tricks](https://manytricks.com/): A small software company that builds high quality software for Mac users.
