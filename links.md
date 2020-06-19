@@ -62,6 +62,10 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 
 * [OSHPark](https://oshpark.com/)
 
+### Forums
+
+* [GeekHack](http://geekhack.org/)
+
 ## Security
 
 * [MD5 collisions, visualized](https://www.links.org/?p=6)
