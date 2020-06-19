@@ -52,6 +52,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [The Humble Hacker Keyboard](http://www.humblehacker.com/keyboard/)
 * [Dactyl](https://github.com/adereth/dactyl-keyboard)
 * [List of Split Keyboards](https://github.com/diimdeep/awesome-split-keyboards)
+* [ManuForm](https://geekhack.org/index.php?topic=46015.0)
 
 ## Security
 
