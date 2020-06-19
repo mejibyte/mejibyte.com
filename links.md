@@ -50,9 +50,10 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Key64](https://www.key64.org/): Made by another Colombian!
 * [Ergodox](https://www.ergodox.io/)
 * [The Humble Hacker Keyboard](http://www.humblehacker.com/keyboard/)
-* [Dactyl](https://github.com/adereth/dactyl-keyboard)
 * [List of Split Keyboards](https://github.com/diimdeep/awesome-split-keyboards)
+* [Dactyl](https://github.com/adereth/dactyl-keyboard)
 * [ManuForm](https://geekhack.org/index.php?topic=46015.0)
+* [Dactyl-ManuForm](https://github.com/tshort/dactyl-keyboard)
 
 ### 3D Printing, Case Supplies
 
