@@ -54,6 +54,10 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [List of Split Keyboards](https://github.com/diimdeep/awesome-split-keyboards)
 * [ManuForm](https://geekhack.org/index.php?topic=46015.0)
 
+### 3D Printing, Case Supplies
+
+* [Shapeways](https://www.shapeways.com/)
+
 ## Security
 
 * [MD5 collisions, visualized](https://www.links.org/?p=6)
