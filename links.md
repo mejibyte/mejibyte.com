@@ -23,6 +23,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [danielmiessler.com](https://danielmiessler.com/)
 * [pjreddie.com](https://pjreddie.com/): Extremely funny. [His resume really takes it to a whole new level](https://pjreddie.com/static/Redmon%20Resume.pdf).
 * [michael.stapelberg.ch](https://michael.stapelberg.ch/): Some interesting articles about Linux, Go and keyboards. Author of the [i3 window manager[(https://i3wm.org/).
+* [Hugo Landau](https://www.devever.net/~hl/)
 
 ## Software
 
