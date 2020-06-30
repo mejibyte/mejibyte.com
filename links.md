@@ -24,6 +24,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [pjreddie.com](https://pjreddie.com/): Extremely funny. [His resume really takes it to a whole new level](https://pjreddie.com/static/Redmon%20Resume.pdf).
 * [michael.stapelberg.ch](https://michael.stapelberg.ch/): Some interesting articles about Linux, Go and keyboards. Author of the [i3 window manager](https://i3wm.org/).
 * [Hugo Landau](https://www.devever.net/~hl/)
+* [Jeff Johnson](https://lapcatsoftware.com/articles/): Interesting articles about Mac OS programming.
 
 ## Software
 
@@ -81,7 +82,14 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Fortinet Poison Ivy analysis](https://www.fortinet.com/blog/threat-research/deep-analysis-of-new-poison-ivy-variant)
 
 ## Music
+
 * [Chico Buarque's Notebooks](http://www.jobim.org/chico/handle/2010.2/1843) (Portuguese)
+
+### Favorite Bach pieces
+
+* [Prelude 6, Well Tempered Clavier](https://www.youtube.com/watch?v=PIS76X17Mf8): I want to learn this one so hard.
+* [Prelude 2, Well Tempered Clavier](https://www.youtube.com/watch?v=HB8-w5CvMls): Brings me good memories.
+* [Prelude 5, Well Tempered Clavier](https://www.youtube.com/watch?v=vHi3_k4XOrA): The three chords at the ending of the prelude are ahead of his time.
 
 ## Math
 
