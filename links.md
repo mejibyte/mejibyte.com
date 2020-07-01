@@ -103,6 +103,11 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Elby Draws](https://linktr.ee/elby.draws)
 * [Ben Newman](https://bennewmanart.bigcartel.com/)
 
+
+## Psychology, I guess?
+
+* [The Gell-Mann Amnesia Effect](https://loricism.fandom.com/wiki/Gell-Mann_Amnesia_Effect)
+
 ## WTF
 * [lodownmagazine.com/features/█▬█-█-▀█▀-██▓▒░-♫](http://lodownmagazine.com/features/%E2%96%88%E2%96%AC%E2%96%88-%E2%96%88-%E2%96%80%E2%96%88%E2%96%80-%E2%96%88%E2%96%88%E2%96%93%E2%96%92%E2%96%91-%E2%99%AB)
 * [milliondollarhomepage.com](http://www.milliondollarhomepage.com/): This one has an [interesting story](https://en.wikipedia.org/wiki/The_Million_Dollar_Homepage) behind it.
