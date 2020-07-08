@@ -49,6 +49,10 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 ### Web Development
 * [Silk Icons by famfamfam.com](http://famfamfam.com/lab/icons/silk/)
 
+## Linux
+
+* [Linux from Scratch](http://www.linuxfromscratch.org/): A book teaching you how to build your own Linux distro from scratch.
+
 ## Keyboards
 
 * [Key64](https://www.key64.org/): Made by another Colombian!
@@ -87,9 +91,9 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 
 ### Favorite Bach pieces
 
-* [Prelude 6, Well Tempered Clavier](https://www.youtube.com/watch?v=PIS76X17Mf8): I want to learn this one so hard.
-* [Prelude 2, Well Tempered Clavier](https://www.youtube.com/watch?v=HB8-w5CvMls): Brings me good memories. I like the fugue too.
-* [Prelude 5, Well Tempered Clavier](https://www.youtube.com/watch?v=vHi3_k4XOrA): The three chords at the ending of the prelude are ahead of his time.
+* [Prelude 6, Well Tempered Clavier, Book 1](https://www.youtube.com/watch?v=PIS76X17Mf8): I want to learn this one so hard.
+* [Prelude 2, Well Tempered Clavier, Book 1](https://www.youtube.com/watch?v=HB8-w5CvMls): Brings me good memories. I like the fugue too.
+* [Prelude 5, Well Tempered Clavier, Book 1](https://www.youtube.com/watch?v=vHi3_k4XOrA): The three chords at the ending of the prelude are ahead of his time.
 
 ## Math
 
