@@ -43,8 +43,10 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Linus Torvald's first commit on Git](https://git.kernel.org/pub/scm/git/git.git/commit/?id=e83c5163316f89bfbde7d9ab23ca2e25604af290): Extremely interesting read. ([Hacker News thread.](https://news.ycombinator.com/item?id=8650483))
 
 
-### Algorithms
+### Algorithms & Data Structures
 * [Fisher-Yates Shuffle algorithm](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle): O(n) unbiased random permutation.
+* [Treap](https://cp-algorithms.com/data_structures/treap.html): The most beautiful data structure in the world, perhaps closely followed by 
+* [Suffix Automaton](https://cp-algorithms.com/string/suffix-automaton.html): The swiss army knife of strings.
 
 ### Web Development
 * [Silk Icons by famfamfam.com](http://famfamfam.com/lab/icons/silk/)
