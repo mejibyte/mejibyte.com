@@ -21,7 +21,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 
 * [http://blocktronics.org](http://blocktronics.org/): Love this gallery.
 * [http://rom-news.org](http://rom-news.org/): Interesting ASCII art from real-life NFO files ([example](http://rom-news.org/gba/nfo/Pnb_Chizz-GBa_(GuiltyByassociation)-SINGLE-WEB-2017-ENRAGED)).
-* [Ben Newman](https://bennewmanart.bigcartel.com/)
+* [Ben Newman](https://bennewmanart.bigcartel.com/): I like his style.
 
 ## Web Development
 * [Silk Icons by famfamfam.com](http://famfamfam.com/lab/icons/silk/)
