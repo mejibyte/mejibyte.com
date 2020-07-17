@@ -121,5 +121,5 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [wreckedexotics.com](http://www.wreckedexotics.com/): Photos of expensive cars wrecked. Posting weekly since 2002. WTF.
 * [XKCD Matplotlib](https://matplotlib.org/3.2.1/gallery/showcase/xkcd.html): Render graphs in Matlab that look like they're from XKCD!
 * [Motorcycle gets stuck to front of minivan](https://abc7.com/caught-on-camera-motorcycle-stuck-to-front-of-minivan-in-corona/6257266/)
-* [Brainstorm vs Green Needle](https://www.youtube.com/watch?v=1okD66RmktA)
+* [Brainstorm vs Green Needle](https://www.youtube.com/watch?v=1okD66RmktA): If you think there such a thing as "objective reality", I hate to break the illusion. 
 * [Straightened Trees](http://danieltemkin.com/StraightenedTrees): This gives me a very awry feeling.
