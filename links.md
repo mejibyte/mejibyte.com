@@ -116,7 +116,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 
 * [The Gell-Mann Amnesia Effect](https://loricism.fandom.com/wiki/Gell-Mann_Amnesia_Effect)
 
-## WTF, Weirdly Interesting
+## WTF, Weirdly Interesting, Funny
 * [lodownmagazine.com/features/█▬█-█-▀█▀-██▓▒░-♫](http://lodownmagazine.com/features/%E2%96%88%E2%96%AC%E2%96%88-%E2%96%88-%E2%96%80%E2%96%88%E2%96%80-%E2%96%88%E2%96%88%E2%96%93%E2%96%92%E2%96%91-%E2%99%AB)
 * [milliondollarhomepage.com](http://www.milliondollarhomepage.com/): This one has an [interesting story](https://en.wikipedia.org/wiki/The_Million_Dollar_Homepage) behind it.
 * [wreckedexotics.com](http://www.wreckedexotics.com/): Photos of expensive cars wrecked. Posting weekly since 2002. WTF.
@@ -124,4 +124,4 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Motorcycle gets stuck to front of minivan](https://abc7.com/caught-on-camera-motorcycle-stuck-to-front-of-minivan-in-corona/6257266/)
 * [Brainstorm vs Green Needle](https://www.youtube.com/watch?v=1okD66RmktA): If you think there such a thing as "objective reality", I hate to break the illusion. 
 * [Straightened Trees](http://danieltemkin.com/StraightenedTrees): This gives me a very awry feeling.
-* [Tax Refund Check signed by Walt Disney and Mickey Mouse](https://abcstlouis.com/news/offbeat/mickey-mouse-signs-rhode-island-refund-checks-technical-error-to-blame)
+* [Tax refund check signed by Mickey Mouse and Walt Disney](https://abcstlouis.com/news/offbeat/mickey-mouse-signs-rhode-island-refund-checks-technical-error-to-blame)
