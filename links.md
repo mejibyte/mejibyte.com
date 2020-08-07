@@ -124,3 +124,4 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Motorcycle gets stuck to front of minivan](https://abc7.com/caught-on-camera-motorcycle-stuck-to-front-of-minivan-in-corona/6257266/)
 * [Brainstorm vs Green Needle](https://www.youtube.com/watch?v=1okD66RmktA): If you think there such a thing as "objective reality", I hate to break the illusion. 
 * [Straightened Trees](http://danieltemkin.com/StraightenedTrees): This gives me a very awry feeling.
+* [Tax Refund Check signed by Walt Disney and Mickey Mouse](https://abcstlouis.com/news/offbeat/mickey-mouse-signs-rhode-island-refund-checks-technical-error-to-blame)
