@@ -52,9 +52,10 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 ### Web Development
 * [Silk Icons by famfamfam.com](http://famfamfam.com/lab/icons/silk/)
 
-## Linux
+## Operating Systems
 
 * [Linux from Scratch](http://www.linuxfromscratch.org/): A book teaching you how to build your own Linux distro from scratch.
+* [Creating an OS from scratch](https://github.com/cfenollosa/os-tutorial): I really want to do this!
 
 ## Keyboards
 
