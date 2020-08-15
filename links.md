@@ -109,6 +109,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 
 ### Artists
 * [Alexandra Frantseva](https://www.artstation.com/alexfranz)
+* [Maciej Kuciara](https://www.artstation.com/maciej)
 * [Elby Draws](https://linktr.ee/elby.draws)
 * [Ben Newman](https://bennewmanart.bigcartel.com/)
 
