@@ -25,6 +25,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [michael.stapelberg.ch](https://michael.stapelberg.ch/): Some interesting articles about Linux, Go and keyboards. Author of the [i3 window manager](https://i3wm.org/).
 * [Hugo Landau](https://www.devever.net/~hl/)
 * [Jeff Johnson](https://lapcatsoftware.com/articles/): Interesting articles about Mac OS programming.
+* (Paul Weinstein)[https://www.weinstein.org/]
 
 ## Software
 
