@@ -50,6 +50,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Kadane's Algorithm](https://codeforces.com/blog/entry/13713): Compute the maximum subarray sum in O(n) time. It's beautiful.
 * [Treap](https://cp-algorithms.com/data_structures/treap.html): The most beautiful data structure in the world, perhaps closely followed by
 * [Suffix Automaton](https://cp-algorithms.com/string/suffix-automaton.html): The swiss army knife of strings.
+* [Russ Cox's articles about regular expressions](https://swtch.com/~rsc/regexp/): Great stuff.
 
 ### Web Development
 * [Silk Icons by famfamfam.com](http://famfamfam.com/lab/icons/silk/)
