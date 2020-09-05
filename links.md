@@ -15,6 +15,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 
 * [The three ASCII Art Styles of the Underground Art Scene](http://www.roysac.com/roy-sac_styles_of_underground_text_art.html), by Roy/SAC: Gorgeous .nfo files.
 * [GeoCities Gallery](https://geocities.restorativland.org/): Talk about nostalgia.
+* [Winamp Skin Museum](https://skins.webamp.org/): I loved Winamp.
 
 ## Personal websites & Personal blogs
 
