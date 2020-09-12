@@ -99,6 +99,8 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 
 ### Orchestral music
 * [Prokofiev: Romeo and Juliet, No 13 Dance of the Knights](https://www.youtube.com/watch?v=Z_hOR50u7ek)
+* [Edvard Grieg: Anitra's Dream - from Peer Gynt Suite no. 1, Op. 46](https://www.youtube.com/watch?v=kMWp1d44rUE)
+* [Edvard Grieg: In the Hall of the Mountain King - from Peer Gynt Suite no. 1, Op. 46](https://www.youtube.com/watch?v=xrIYT-MrVaI)
 
 ### Favorite Bach pieces
 
