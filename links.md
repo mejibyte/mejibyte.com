@@ -97,6 +97,9 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 
 * [Chico Buarque's Notebooks](http://www.jobim.org/chico/handle/2010.2/1843) (Portuguese)
 
+### Orchestral music
+* [Prokofiev: Romeo and Juliet, No 13 Dance of the Knights](https://www.youtube.com/watch?v=Z_hOR50u7ek)
+
 ### Favorite Bach pieces
 
 * [Prelude 6, Well Tempered Clavier, Book 1](https://www.youtube.com/watch?v=PIS76X17Mf8): I want to learn this one so hard.
