@@ -48,6 +48,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 
 ### Algorithms & Data Structures
 * [Fisher-Yates Shuffle algorithm](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle): O(n) unbiased random permutation.
+* [Sattolo's Algorithm](https://danluu.com/sattolo/): O(n) random permutation with a single cycle.
 * [Kadane's Algorithm](https://codeforces.com/blog/entry/13713): Compute the maximum subarray sum in O(n) time. It's beautiful.
 * [Treap](https://cp-algorithms.com/data_structures/treap.html): The most beautiful data structure in the world, perhaps closely followed by
 * [Suffix Automaton](https://cp-algorithms.com/string/suffix-automaton.html): The swiss army knife of strings.
