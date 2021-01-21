@@ -50,9 +50,16 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Fisher-Yates Shuffle algorithm](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle): O(n) unbiased random permutation.
 * [Sattolo's Algorithm](https://danluu.com/sattolo/): O(n) random permutation with a single cycle.
 * [Kadane's Algorithm](https://codeforces.com/blog/entry/13713): Compute the maximum subarray sum in O(n) time. It's beautiful.
-* [Treap](https://cp-algorithms.com/data_structures/treap.html): The most beautiful data structure in the world, perhaps closely followed by
+* [Treap](https://cp-algorithms.com/data_structures/treap.html): The most beautiful data structure in the world, perhaps closely followed by...
 * [Suffix Automaton](https://cp-algorithms.com/string/suffix-automaton.html): The swiss army knife of strings.
 * [Russ Cox's articles about regular expressions](https://swtch.com/~rsc/regexp/): Great stuff.
+
+#### Stringology
+
+* [Converting a Suffix Automaton to a Suffix Array](https://codeforces.com/blog/entry/12280)
+* [Converting a Suffix Array to a Suffix Tree](https://codeforces.com/blog/entry/11337)
+* [Converting a Suffix Automaton to a Suffix Tree](https://codeforces.com/blog/entry/20861)
+* [Converting the Z-function to the Prefix Function and viceversa](https://codeforces.com/blog/entry/9612): In Russian, but Google Translate does a reasonably good job.
 
 ### Web Development
 * [Silk Icons by famfamfam.com](http://famfamfam.com/lab/icons/silk/)
@@ -138,6 +145,6 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [wreckedexotics.com](http://www.wreckedexotics.com/): Photos of expensive cars wrecked. Posting weekly since 2002. WTF.
 * [XKCD Matplotlib](https://matplotlib.org/3.2.1/gallery/showcase/xkcd.html): Render graphs in Matlab that look like they're from XKCD!
 * [Motorcycle gets stuck to front of minivan](https://abc7.com/caught-on-camera-motorcycle-stuck-to-front-of-minivan-in-corona/6257266/)
-* [Brainstorm vs Green Needle](https://www.youtube.com/watch?v=1okD66RmktA): If you think there is such a thing as "objective reality", I hate to break the illusion. 
+* [Brainstorm vs Green Needle](https://www.youtube.com/watch?v=1okD66RmktA): If you think there is such a thing as "objective reality", I hate to break the illusion.
 * [Straightened Trees](http://danieltemkin.com/StraightenedTrees): This gives me a very awry feeling.
 * [Tax refund check signed by Mickey Mouse and Walt Disney](https://abcstlouis.com/news/offbeat/mickey-mouse-signs-rhode-island-refund-checks-technical-error-to-blame)
