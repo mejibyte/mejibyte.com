@@ -60,6 +60,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Converting a Suffix Array to a Suffix Tree](https://codeforces.com/blog/entry/11337)
 * [Converting a Suffix Automaton to a Suffix Tree](https://codeforces.com/blog/entry/20861)
 * [Converting the Z-function to the Prefix Function and viceversa](https://codeforces.com/blog/entry/9612): In Russian, but Google Translate does a reasonably good job.
+* [Multiple common substring problem in linear time](https://web.cs.ucdavis.edu/~gusfield/cs224f09/commonsubstrings.pdf)
 
 ### Web Development
 * [Silk Icons by famfamfam.com](http://famfamfam.com/lab/icons/silk/)
