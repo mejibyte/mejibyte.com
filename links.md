@@ -53,6 +53,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Treap](https://cp-algorithms.com/data_structures/treap.html): The most beautiful data structure in the world, perhaps closely followed by...
 * [Suffix Automaton](https://cp-algorithms.com/string/suffix-automaton.html): The swiss army knife of strings.
 * [Russ Cox's articles about regular expressions](https://swtch.com/~rsc/regexp/): Great stuff.
+* [Sparse Set with O(1) initialization](https://research.swtch.com/sparse): Very clever idea.
 
 #### Stringology
 
