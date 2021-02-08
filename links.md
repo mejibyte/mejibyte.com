@@ -93,7 +93,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 
 ### Forums
 
-* [GeekHack](http://geekhack.org/)
+* [GeekHack](http://geekhack.org/): A forum about building keyboards from scratch.
 
 ## Security
 
@@ -113,12 +113,17 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Prokofiev: Romeo and Juliet, No 13 Dance of the Knights](https://www.youtube.com/watch?v=Z_hOR50u7ek)
 * [Edvard Grieg: Anitra's Dream - from Peer Gynt Suite no. 1, Op. 46](https://www.youtube.com/watch?v=kMWp1d44rUE)
 * [Edvard Grieg: In the Hall of the Mountain King - from Peer Gynt Suite no. 1, Op. 46](https://www.youtube.com/watch?v=xrIYT-MrVaI)
+* [Tchaikovsky: 1812 Overture - Finale](https://www.youtube.com/watch?v=u2W1Wi2U9sQ)
+* [John Williams: Theme from Jurassic Park](https://www.youtube.com/watch?v=-NqaupGcCpw)
+* [John Williams: Raiders March (From Indiana Jones)](https://www.youtube.com/watch?v=IgncJgSbbck)
+* [John Williams: Marion's Theme (From Indiana Jones)](https://www.youtube.com/watch?v=kNTuEKg7lrU)
 
 ### Favorite Bach pieces
 
 * [Prelude 6, Well Tempered Clavier, Book 1](https://www.youtube.com/watch?v=PIS76X17Mf8): I want to learn this one so hard.
 * [Prelude 2, Well Tempered Clavier, Book 1](https://www.youtube.com/watch?v=HB8-w5CvMls): Brings me good memories. I like the fugue too.
 * [Prelude 5, Well Tempered Clavier, Book 1](https://www.youtube.com/watch?v=vHi3_k4XOrA): The three chords at the ending of the prelude are ahead of his time.
+* [Prelude in D minor, BWV 935](https://www.youtube.com/watch?v=nrqzH76tcs8)
 
 ## Math
 
@@ -133,6 +138,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Maciej Kuciara](https://www.artstation.com/maciej)
 * [Elby Draws](https://linktr.ee/elby.draws)
 * [Ben Newman](https://bennewmanart.bigcartel.com/)
+* [Vlada Hladkova](https://linktr.ee/rrrawhide)
 
 
 ## Psychology, I guess?
