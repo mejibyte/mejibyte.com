@@ -53,21 +53,22 @@ In this particular example, the maximum possible sum is 6 and corresponds to `[5
 
 In this case, any other subarray has sum less than 6 (try it!) but in the general case the solution is not guaranteed to be unique: there could be two or more different subarrays with maximum sum (as an example, consider the array `[5, 5, -100, 1, 9]` which has two different subarrays of sum 10, the maximum possible). If there are multiple solutions, we will assume it's OK to find *any* of them.
 
-Obviously the problem is only interesting when the array contains both negative and positive elements, since if all elements are non-negative then the answer is to simply take the entire array (adding extra elements to the subarray will never make it smaller!).
+The problem is only interesting when the array contains both negative and positive elements, because otherwise there are trivial solutions:
 
-In the case where all elements are negative, we are forced to pick at least one (because the problem explicitly asks for a **non-empty** subarray). So in this case the solution is two simply take a subarray of size 1 containing the least negative number (in other words, the maximum array element).
+* If all elements are non-negative then the answer is to simply take the entire array (adding extra elements to the subarray will never make it smaller!);
+* If all elements are negative, we are forced to pick at least one (because the problem explicitly asks for a **non-empty** subarray). So in this case the solution is two simply take a subarray of size 1 containing the least negative number (in other words, the maximum array element).
 
 But how do we solve it when there are both positive and negative numbers in the array?
 
-If you've never encountered this problem before, this is the part where I encourage you to think about it before you continue. Stop right now and try to find a solution on your own before proceeding!  If you are able to find any of the two `O(n)` solutions, congratulations! Otherwise, by thinking about it you'll gain some of insight about the problem that will make reading the solution more satisfying. Once you read Mejía's Algorithm at the end, I guarantee you will be thinking "how did I not think of that?!".
+If you've never encountered this problem before, this is the part where I encourage you to think about it before you continue. Stop right now and try to find a solution on your own before proceeding!  If you are able to find any of the two `O(n)` solutions, congratulations! If you can't find it, that's fine too: by thinking about it you'll gain insight about the problem that will make reading the solution more fun. Once you read Mejía's Algorithm at the end, I guarantee you will be thinking "how did I not think of that?!".
 
 #### Rewriting the problem into something more useful
 
-The goal is to find the subarray whose sum is maximum, but that's just words. Let's massage that a little bit to make it easier to work with.
+The problem asks to find the subarray whose sum is maximum, but that's just words. Let's massage that a little bit to make it easier to work with.
 
 Since a subarray is a contiguous block of `A`, it can be described by two indices `i` and `j`: the index where it starts and the index where it ends, respectively. Let's denote as `A[i..j]` the subarray of `A` that starts at index `i` and ends at index `j` (both inclusive). I will also use 0-based indexes. For example, if `A = [-3, 5, -1, 2]` then `A[0..1] = [-3, 5]`,  `A[2..2] = [-1]` and `A[0..3] = [-3, 5, -1, 2]`.
 
-Let's also define `sum(i, j) = A[i] + A[i+1] + ... + A[j-1] + A[j]` to make the explanations easier (in words, `sum(i, j)` is the sum of the subarray `A[i..j]`).
+Let's also define `sum(i, j)` as `sum(i, j) = A[i] + A[i+1] + ... + A[j-1] + A[j]` to make the explanations easier (in words, `sum(i, j)` is the sum of the subarray `A[i..j]`).
 
 So now we can restate the problem as follows: given an array `A` of size `N`, find a pair of indices `i, j` satisfying `0 ≤ i ≤ j < N` such that `sum(i, j)` is as large as possible.
 
@@ -78,7 +79,7 @@ In summary:
 * **Input**: An array `A` of `N` integers.
 * **Output**: Two valid indices `i`, `j` such that `sum(i, j)` is maximum, as well as the value of `sum(i, j)` itself.
 
-Keep in mind that in my code snippets below I will actually only return `sum(i, j)`. I won't return `i` and `j` explicitly in order to keep things simple and tidy, but it's straightforward to adapt the the code to also return `i` and `j` if you actually need the indices.
+Keep in mind that in my code snippets below I will actually only return `sum(i, j)`. In order to keep things clean and tidy, I won't return `i` and `j` explicitly, but it's straightforward to adapt the the code to also return `i` and `j` if you need the actual indices.
 
 # The Naive Solution
 
