@@ -7,7 +7,7 @@ layout: default
 
 # Interesting links
 
-This is just a collection of links to that I find interesting.
+This is just a collection of links to that I find interesting. Some of these are things I've read and really enjoyed. Others are things I want to read some day.
 
 ## Memory lane
 
