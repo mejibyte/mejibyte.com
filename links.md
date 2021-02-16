@@ -160,3 +160,4 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Brainstorm vs Green Needle](https://www.youtube.com/watch?v=1okD66RmktA): If you think there is such a thing as "objective reality", I hate to break the illusion.
 * [Straightened Trees](http://danieltemkin.com/StraightenedTrees): This gives me a very awry feeling.
 * [Tax refund check signed by Mickey Mouse and Walt Disney](https://abcstlouis.com/news/offbeat/mickey-mouse-signs-rhode-island-refund-checks-technical-error-to-blame)
+* [The Aztec Death Whistle](https://www.youtube.com/watch?v=I9QuO09z-SI): and also [this one](https://www.youtube.com/watch?v=_Sw0VCtZs-g). I want one of these so badly.
