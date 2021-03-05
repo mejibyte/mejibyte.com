@@ -161,3 +161,4 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Straightened Trees](http://danieltemkin.com/StraightenedTrees): This gives me a very awry feeling.
 * [Tax refund check signed by Mickey Mouse and Walt Disney](https://abcstlouis.com/news/offbeat/mickey-mouse-signs-rhode-island-refund-checks-technical-error-to-blame)
 * [The Aztec Death Whistle](https://www.youtube.com/watch?v=I9QuO09z-SI) (also [this one](https://www.youtube.com/watch?v=_Sw0VCtZs-g)): I want one of these so badly.
+* [Hal changing a lightbulb](https://www.youtube.com/watch?v=AbSehcT19u0):This is what fixing a bug in a large codebase feels like.
