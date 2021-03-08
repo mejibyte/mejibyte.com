@@ -28,7 +28,9 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Jeff Johnson](https://lapcatsoftware.com/articles/): Interesting articles about Mac OS programming.
 * [Paul Weinstein](https://www.weinstein.org/)
 * [Lawrence Kesteloot](https://www.teamten.com/lawrence/): I really like the simple yet exquisite design of this website.
-* [yourbasic.org](https://yourbasic.org/): I like how useful and simple this website is. 
+* [yourbasic.org](https://yourbasic.org/): Useful articles about Golang. Very simple and clear layout. No popups! No "Accept Cookies" buttons! No "Sign up to our newsletter" forms! Just a simple website with useful information. What a radical idea!
+* [manybutfinite.com](https://manybutfinite.com/): Some really cool articles about low-level Linux stuff.
+
 ## Software
 
 ### Text Editors
