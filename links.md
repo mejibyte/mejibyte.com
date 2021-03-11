@@ -91,6 +91,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Dactyl](https://github.com/adereth/dactyl-keyboard)
 * [ManuForm](https://geekhack.org/index.php?topic=46015.0)
 * [Dactyl-ManuForm](https://github.com/tshort/dactyl-keyboard)
+* [The story behind AltGr + dead keys](https://www.choam.eu/altgr-intl/): I used this layout for a long time on Linux without ever stopping to think that some had to, you know, invent it.
 
 ### 3D Printing, Case Supplies
 
