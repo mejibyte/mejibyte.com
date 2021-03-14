@@ -91,7 +91,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Dactyl](https://github.com/adereth/dactyl-keyboard)
 * [ManuForm](https://geekhack.org/index.php?topic=46015.0)
 * [Dactyl-ManuForm](https://github.com/tshort/dactyl-keyboard)
-* [The story behind AltGr + dead keys](https://www.choam.eu/altgr-intl/): I used this layout for a long time on Linux without ever stopping to think that some had to, you know, invent it.
+* [The story behind AltGr + dead keys](https://www.choam.eu/altgr-intl/): I used this layout for a long time on Linux without ever stopping to think that someone had to, you know, invent it.
 
 ### 3D Printing, Case Supplies
 
@@ -164,5 +164,5 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Brainstorm vs Green Needle](https://www.youtube.com/watch?v=1okD66RmktA): If you think there is such a thing as "objective reality", I hate to break the illusion.
 * [Straightened Trees](http://danieltemkin.com/StraightenedTrees): This gives me a very awry feeling.
 * [Tax refund check signed by Mickey Mouse and Walt Disney](https://abcstlouis.com/news/offbeat/mickey-mouse-signs-rhode-island-refund-checks-technical-error-to-blame)
-* [The Aztec Death Whistle](https://www.youtube.com/watch?v=I9QuO09z-SI) (also [this one](https://www.youtube.com/watch?v=_Sw0VCtZs-g)): I want one of these so badly.
-* [Hal changing a lightbulb](https://www.youtube.com/watch?v=AbSehcT19u0):This is what fixing a bug in a large codebase feels like.
+* [The Aztec Death Whistle](https://www.youtube.com/watch?v=I9QuO09z-SI) (also [this one](https://www.youtube.com/watch?v=_Sw0VCtZs-g)): The scariest sound you'll ever hear.
+* [Hal changing a lightbulb](https://www.youtube.com/watch?v=AbSehcT19u0): What fixing a bug in a large codebase feels like.
