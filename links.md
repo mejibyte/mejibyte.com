@@ -31,6 +31,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Lawrence Kesteloot](https://www.teamten.com/lawrence/): I really like the simple yet exquisite design of this website.
 * [yourbasic.org](https://yourbasic.org/): Useful articles about Golang. Very simple and clear layout. No popups! No "Accept Cookies" buttons! No "Sign up to our newsletter" forms! Just a simple website with useful information. What a radical idea!
 * [manybutfinite.com](https://manybutfinite.com/): Some really cool articles about low-level Linux stuff.
+* [Omar Cornut](https://www.miracleworld.net/): Creator of the [Dear ImGui](https://github.com/ocornut/imgui) library.
 
 ## Software
 
@@ -47,6 +48,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 ## Programming
 
 * [Linus Torvald's first commit on Git](https://git.kernel.org/pub/scm/git/git.git/commit/?id=e83c5163316f89bfbde7d9ab23ca2e25604af290): Extremely interesting read. ([Hacker News thread.](https://news.ycombinator.com/item?id=8650483))
+* [The history of the first 32 ASCII characters](http://www.catb.org/esr/faqs/things-every-hacker-once-knew/#_ascii)
 
 
 ### Algorithms & Data Structures
