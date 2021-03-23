@@ -49,6 +49,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 
 * [Linus Torvald's first commit on Git](https://git.kernel.org/pub/scm/git/git.git/commit/?id=e83c5163316f89bfbde7d9ab23ca2e25604af290): Extremely interesting read. ([Hacker News thread.](https://news.ycombinator.com/item?id=8650483))
 * [The history of the first 32 ASCII characters](http://www.catb.org/esr/faqs/things-every-hacker-once-knew/#_ascii)
+* [The history of UTF-8 by Rob Pike](https://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt)
 
 
 ### Algorithms & Data Structures
