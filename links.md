@@ -79,6 +79,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 
 ### Machine Learning
 * [MediaPipe](https://google.github.io/mediapipe/)
+* [Monster Mash](https://ai.googleblog.com/2021/04/monster-mash-sketch-based-tool-for.html)
 
 ## Operating Systems
 
