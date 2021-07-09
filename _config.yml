@@ -49,3 +49,8 @@ plugins:
 exclude:
   - server.sh
   - README.md
+
+# See https://jekyllrb.com/docs/permalinks/
+permalink: /:categories/:title
+
+google_analytics: G-ZGQKH9P1EL

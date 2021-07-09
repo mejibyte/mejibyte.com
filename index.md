@@ -9,6 +9,6 @@ My name is **Andrés Mejía**. I’m a **Software Engineer** who’s been playin
 
 You can find my open source contributions on [GitHub](https://github.com/mejibyte), but since I joined my current company I've been laser-focused on my job so there's not much recent activity.
 
-You can reach me via email at [andr@esmejia.com](mailto:andr@esmejia.com) or via Twitter at [@mejibyte](https://twitter.com/mejibyte).
+You can reach me via email at [andr@esmejia.com](mailto:andr@esmejia.com), via Twitter at [@mejibyte](https://twitter.com/mejibyte) or on [LinkedIn](https://www.linkedin.com/mejibyte/).
 
 ![Me](/images/me2.jpg)

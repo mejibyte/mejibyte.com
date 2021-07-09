@@ -7,7 +7,7 @@ layout: default
 
 # Interesting links
 
-This is just a collection of links to that I find interesting.
+This is just a collection of links to that I find interesting. Some of these are things I've read and really enjoyed. Others are things I want to read some day.
 
 ## Memory lane
 
@@ -16,6 +16,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [The three ASCII Art Styles of the Underground Art Scene](http://www.roysac.com/roy-sac_styles_of_underground_text_art.html), by Roy/SAC: Gorgeous .nfo files.
 * [GeoCities Gallery](https://geocities.restorativland.org/): Talk about nostalgia.
 * [Winamp Skin Museum](https://skins.webamp.org/): I loved Winamp.
+* [Windows XP screenshot gallery](https://guidebookgallery.org/screenshots/winxppro): Say what you will, but I think Windows XP looked much better than Windows 10.
 
 ## Personal websites & Personal blogs
 
@@ -28,6 +29,9 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Jeff Johnson](https://lapcatsoftware.com/articles/): Interesting articles about Mac OS programming.
 * [Paul Weinstein](https://www.weinstein.org/)
 * [Lawrence Kesteloot](https://www.teamten.com/lawrence/): I really like the simple yet exquisite design of this website.
+* [yourbasic.org](https://yourbasic.org/): Useful articles about Golang. Very simple and clear layout. No popups! No "Accept Cookies" buttons! No "Sign up to our newsletter" forms! Just a simple website with useful information. What a radical idea!
+* [manybutfinite.com](https://manybutfinite.com/): Some really cool articles about low-level Linux stuff.
+* [Omar Cornut](https://www.miracleworld.net/): Creator of the [Dear ImGui](https://github.com/ocornut/imgui) library.
 
 ## Software
 
@@ -48,17 +52,38 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 ## Programming
 
 * [Linus Torvald's first commit on Git](https://git.kernel.org/pub/scm/git/git.git/commit/?id=e83c5163316f89bfbde7d9ab23ca2e25604af290): Extremely interesting read. ([Hacker News thread.](https://news.ycombinator.com/item?id=8650483))
+* [The history of the first 32 ASCII characters](http://www.catb.org/esr/faqs/things-every-hacker-once-knew/#_ascii)
+* [The history of UTF-8 by Rob Pike](https://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt)
+* [The first release of Bitcoin](https://web.archive.org/web/20091127010808/http://sourceforge.net/projects/bitcoin/files/)
 
 
 ### Algorithms & Data Structures
 * [Fisher-Yates Shuffle algorithm](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle): O(n) unbiased random permutation.
+* [Sattolo's Algorithm](https://danluu.com/sattolo/): O(n) random permutation with a single cycle.
 * [Kadane's Algorithm](https://codeforces.com/blog/entry/13713): Compute the maximum subarray sum in O(n) time. It's beautiful.
-* [Treap](https://cp-algorithms.com/data_structures/treap.html): The most beautiful data structure in the world, perhaps closely followed by
+* [Treap](https://cp-algorithms.com/data_structures/treap.html): The most beautiful data structure in the world, perhaps closely followed by...
 * [Suffix Automaton](https://cp-algorithms.com/string/suffix-automaton.html): The swiss army knife of strings.
 * [Russ Cox's articles about regular expressions](https://swtch.com/~rsc/regexp/): Great stuff.
+* [Sparse Set with O(1) initialization](https://research.swtch.com/sparse): Very clever idea.
+
+#### Stringology
+
+* [Converting a Suffix Automaton to a Suffix Array](https://codeforces.com/blog/entry/12280)
+* [Converting a Suffix Array to a Suffix Tree](https://codeforces.com/blog/entry/11337)
+* [Converting a Suffix Automaton to a Suffix Tree](https://codeforces.com/blog/entry/20861)
+* [Converting the Z-function to the Prefix Function and viceversa](https://codeforces.com/blog/entry/9612): In Russian, but Google Translate does a reasonably good job.
+* [Multiple common substring problem in linear time](https://web.cs.ucdavis.edu/~gusfield/cs224f09/commonsubstrings.pdf)
+
+### Ruby
+
+* [Ruby's -e, -n and -p switches](https://robm.me.uk/2013/11/ruby-enp/): Most useful trick you'll ever learn.
 
 ### Web Development
 * [Silk Icons by famfamfam.com](http://famfamfam.com/lab/icons/silk/)
+
+### Machine Learning
+* [MediaPipe](https://google.github.io/mediapipe/)
+* [Monster Mash](https://ai.googleblog.com/2021/04/monster-mash-sketch-based-tool-for.html)
 
 ## Operating Systems
 
@@ -71,9 +96,11 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Ergodox](https://www.ergodox.io/)
 * [The Humble Hacker Keyboard](http://www.humblehacker.com/keyboard/)
 * [List of Split Keyboards](https://github.com/diimdeep/awesome-split-keyboards)
+* [Split Keyboard Gallery](https://aposymbiont.github.io/split-keyboards/)
 * [Dactyl](https://github.com/adereth/dactyl-keyboard)
 * [ManuForm](https://geekhack.org/index.php?topic=46015.0)
 * [Dactyl-ManuForm](https://github.com/tshort/dactyl-keyboard)
+* [The story behind AltGr + dead keys](https://www.choam.eu/altgr-intl/): I used this layout for a long time on Linux without ever stopping to think that someone had to, you know, invent it.
 
 ### 3D Printing, Case Supplies
 
@@ -85,7 +112,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 
 ### Forums
 
-* [GeekHack](http://geekhack.org/)
+* [GeekHack](http://geekhack.org/): A forum about building keyboards from scratch.
 
 ## Security
 
@@ -104,6 +131,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Alexandra Frantseva](https://www.artstation.com/alexfranz)
 * [Maciej Kuciara](https://www.artstation.com/maciej)
 * [Elby Draws](https://linktr.ee/elby.draws)
+* [Vlada Hladkova](https://linktr.ee/rrrawhide)
 
 
 ## Psychology, I guess?
@@ -114,11 +142,15 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [lodownmagazine.com/features/█▬█-█-▀█▀-██▓▒░-♫](http://lodownmagazine.com/features/%E2%96%88%E2%96%AC%E2%96%88-%E2%96%88-%E2%96%80%E2%96%88%E2%96%80-%E2%96%88%E2%96%88%E2%96%93%E2%96%92%E2%96%91-%E2%99%AB)
 * [milliondollarhomepage.com](http://www.milliondollarhomepage.com/): This one has an [interesting story](https://en.wikipedia.org/wiki/The_Million_Dollar_Homepage) behind it.
 * [wreckedexotics.com](http://www.wreckedexotics.com/): Photos of expensive cars wrecked. Posting weekly since 2002. WTF.
-* [XKCD Matplotlib](https://matplotlib.org/3.2.1/gallery/showcase/xkcd.html): Render graphs in Matlab that look like they're from XKCD!
+* [XKCD Matplotlib](https://matplotlib.org/3.2.1/gallery/showcase/xkcd.html): Render graphs in Python that look like they're from XKCD!
 * [Motorcycle gets stuck to front of minivan](https://abc7.com/caught-on-camera-motorcycle-stuck-to-front-of-minivan-in-corona/6257266/)
 * [Brainstorm vs Green Needle](https://www.youtube.com/watch?v=1okD66RmktA): If you think there is such a thing as "objective reality", I hate to break the illusion.
 * [Straightened Trees](http://danieltemkin.com/StraightenedTrees): This gives me a very awry feeling.
 * [Tax refund check signed by Mickey Mouse and Walt Disney](https://abcstlouis.com/news/offbeat/mickey-mouse-signs-rhode-island-refund-checks-technical-error-to-blame)
+* [The Aztec Death Whistle](https://www.youtube.com/watch?v=I9QuO09z-SI) (also [this one](https://www.youtube.com/watch?v=_Sw0VCtZs-g)): The scariest sound you'll ever hear.
+* [Hal changing a lightbulb](https://www.youtube.com/watch?v=AbSehcT19u0): What fixing a bug in a large codebase feels like.
+* [Ian's Shoelace Site](https://www.fieggen.com/shoelace/index.htm): This is a gem.
+
 
 ## Music
 
@@ -128,9 +160,14 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Prokofiev: Romeo and Juliet, No 13 Dance of the Knights](https://www.youtube.com/watch?v=Z_hOR50u7ek)
 * [Edvard Grieg: Anitra's Dream - from Peer Gynt Suite no. 1, Op. 46](https://www.youtube.com/watch?v=kMWp1d44rUE)
 * [Edvard Grieg: In the Hall of the Mountain King - from Peer Gynt Suite no. 1, Op. 46](https://www.youtube.com/watch?v=xrIYT-MrVaI)
+* [Tchaikovsky: 1812 Overture - Finale](https://www.youtube.com/watch?v=u2W1Wi2U9sQ)
+* [John Williams: Theme from Jurassic Park](https://www.youtube.com/watch?v=-NqaupGcCpw)
+* [John Williams: Raiders March (From Indiana Jones)](https://www.youtube.com/watch?v=IgncJgSbbck)
+* [John Williams: Marion's Theme (From Indiana Jones)](https://www.youtube.com/watch?v=kNTuEKg7lrU)
 
 ### Favorite Bach pieces
 
 * [Prelude 6, Well Tempered Clavier, Book 1](https://www.youtube.com/watch?v=PIS76X17Mf8): I want to learn this one so hard.
 * [Prelude 2, Well Tempered Clavier, Book 1](https://www.youtube.com/watch?v=HB8-w5CvMls): Brings me good memories. I like the fugue too.
 * [Prelude 5, Well Tempered Clavier, Book 1](https://www.youtube.com/watch?v=vHi3_k4XOrA): The three chords at the ending of the prelude are ahead of his time.
+* [Prelude in D minor, BWV 935](https://www.youtube.com/watch?v=nrqzH76tcs8)

@@ -21,11 +21,10 @@ Override of header.html in minima theme.
 
         <div class="trigger">
           <a class="page-link" rel="author" href="{{ "/" | relative_url }}">Home</a>
+          <!-- <a class="page-link" href="{{ "/thoughts/" | relative_url }}">Thoughts</a> -->
           <a class="page-link" rel="author" href="{{ "/links" | relative_url }}">Links</a>
             {% comment %}
-            TODO: Add this section back once I have written my first post.
-            <a class="page-link" href="{{ "/thoughts/" | relative_url }}">Thoughts</a>
-
+            This part adds links to top level pages, but I already added those by hand.
             {%- for path in page_paths -%}
               {%- assign my_page = site.pages | where: "path", path | first -%}
               {%- if my_page.title -%}
