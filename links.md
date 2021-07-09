@@ -41,6 +41,10 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Contexts](https://contexts.co/): This is a mandatory app for Mac users.
 
 
+### Fonts
+
+[The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/): A collection of old school fonts. Amazing!
+
 ## Programming
 
 * [Linus Torvald's first commit on Git](https://git.kernel.org/pub/scm/git/git.git/commit/?id=e83c5163316f89bfbde7d9ab23ca2e25604af290): Extremely interesting read. ([Hacker News thread.](https://news.ycombinator.com/item?id=8650483))
@@ -87,11 +91,34 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 
 * [MD5 collisions, visualized](https://www.links.org/?p=6)
 
-### Poison Ivy
-* [FireEye Poison Ivy analysis](https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-poison-ivy.pdf)
-* [Sam's Class Poison Ivy tutorial](https://samsclass.info/123/proj10/p11-PI.htm)
-* [NCC Poison Ivy analysis](https://www.nccgroup.com/uk/about-us/newsroom-and-events/blogs/2017/august/analysing-a-recent-poison-ivy-sample/)
-* [Fortinet Poison Ivy analysis](https://www.fortinet.com/blog/threat-research/deep-analysis-of-new-poison-ivy-variant)
+## Math
+
+* [Cyclic Permutations](https://en.wikipedia.org/wiki/Cyclic_permutation)
+
+## Aesthetics, Art, Illustration
+* [http://blocktronics.org](http://blocktronics.org/): ANSI art. I love this gallery.
+* [http://rom-news.org](http://rom-news.org/): Interesting ASCII art from real-life NFO files ([example](http://rom-news.org/gba/nfo/Pnb_Chizz-GBa_(GuiltyByassociation)-SINGLE-WEB-2017-ENRAGED)).
+* [Cool Retro Term](https://github.com/Swordfish90/cool-retro-term): Modern software that looks like the 80s. I love this.
+
+### Artists
+* [Alexandra Frantseva](https://www.artstation.com/alexfranz)
+* [Maciej Kuciara](https://www.artstation.com/maciej)
+* [Elby Draws](https://linktr.ee/elby.draws)
+
+
+## Psychology, I guess?
+
+* [The Gell-Mann Amnesia Effect](https://loricism.fandom.com/wiki/Gell-Mann_Amnesia_Effect)
+
+## WTF, Weirdly Interesting, Funny
+* [lodownmagazine.com/features/█▬█-█-▀█▀-██▓▒░-♫](http://lodownmagazine.com/features/%E2%96%88%E2%96%AC%E2%96%88-%E2%96%88-%E2%96%80%E2%96%88%E2%96%80-%E2%96%88%E2%96%88%E2%96%93%E2%96%92%E2%96%91-%E2%99%AB)
+* [milliondollarhomepage.com](http://www.milliondollarhomepage.com/): This one has an [interesting story](https://en.wikipedia.org/wiki/The_Million_Dollar_Homepage) behind it.
+* [wreckedexotics.com](http://www.wreckedexotics.com/): Photos of expensive cars wrecked. Posting weekly since 2002. WTF.
+* [XKCD Matplotlib](https://matplotlib.org/3.2.1/gallery/showcase/xkcd.html): Render graphs in Matlab that look like they're from XKCD!
+* [Motorcycle gets stuck to front of minivan](https://abc7.com/caught-on-camera-motorcycle-stuck-to-front-of-minivan-in-corona/6257266/)
+* [Brainstorm vs Green Needle](https://www.youtube.com/watch?v=1okD66RmktA): If you think there is such a thing as "objective reality", I hate to break the illusion.
+* [Straightened Trees](http://danieltemkin.com/StraightenedTrees): This gives me a very awry feeling.
+* [Tax refund check signed by Mickey Mouse and Walt Disney](https://abcstlouis.com/news/offbeat/mickey-mouse-signs-rhode-island-refund-checks-technical-error-to-blame)
 
 ## Music
 
@@ -107,32 +134,3 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Prelude 6, Well Tempered Clavier, Book 1](https://www.youtube.com/watch?v=PIS76X17Mf8): I want to learn this one so hard.
 * [Prelude 2, Well Tempered Clavier, Book 1](https://www.youtube.com/watch?v=HB8-w5CvMls): Brings me good memories. I like the fugue too.
 * [Prelude 5, Well Tempered Clavier, Book 1](https://www.youtube.com/watch?v=vHi3_k4XOrA): The three chords at the ending of the prelude are ahead of his time.
-
-## Math
-
-* [Cyclic Permutations](https://en.wikipedia.org/wiki/Cyclic_permutation)
-
-## Aesthetics, Art, Illustration
-* [http://blocktronics.org](http://blocktronics.org/): ANSI art. I love this gallery.
-* [http://rom-news.org](http://rom-news.org/): Interesting ASCII art from real-life NFO files ([example](http://rom-news.org/gba/nfo/Pnb_Chizz-GBa_(GuiltyByassociation)-SINGLE-WEB-2017-ENRAGED)).
-
-### Artists
-* [Alexandra Frantseva](https://www.artstation.com/alexfranz)
-* [Maciej Kuciara](https://www.artstation.com/maciej)
-* [Elby Draws](https://linktr.ee/elby.draws)
-* [Ben Newman](https://bennewmanart.bigcartel.com/)
-
-
-## Psychology, I guess?
-
-* [The Gell-Mann Amnesia Effect](https://loricism.fandom.com/wiki/Gell-Mann_Amnesia_Effect)
-
-## WTF, Weirdly Interesting, Funny
-* [lodownmagazine.com/features/█▬█-█-▀█▀-██▓▒░-♫](http://lodownmagazine.com/features/%E2%96%88%E2%96%AC%E2%96%88-%E2%96%88-%E2%96%80%E2%96%88%E2%96%80-%E2%96%88%E2%96%88%E2%96%93%E2%96%92%E2%96%91-%E2%99%AB)
-* [milliondollarhomepage.com](http://www.milliondollarhomepage.com/): This one has an [interesting story](https://en.wikipedia.org/wiki/The_Million_Dollar_Homepage) behind it.
-* [wreckedexotics.com](http://www.wreckedexotics.com/): Photos of expensive cars wrecked. Posting weekly since 2002. WTF.
-* [XKCD Matplotlib](https://matplotlib.org/3.2.1/gallery/showcase/xkcd.html): Render graphs in Matlab that look like they're from XKCD!
-* [Motorcycle gets stuck to front of minivan](https://abc7.com/caught-on-camera-motorcycle-stuck-to-front-of-minivan-in-corona/6257266/)
-* [Brainstorm vs Green Needle](https://www.youtube.com/watch?v=1okD66RmktA): If you think there is such a thing as "objective reality", I hate to break the illusion. 
-* [Straightened Trees](http://danieltemkin.com/StraightenedTrees): This gives me a very awry feeling.
-* [Tax refund check signed by Mickey Mouse and Walt Disney](https://abcstlouis.com/news/offbeat/mickey-mouse-signs-rhode-island-refund-checks-technical-error-to-blame)
