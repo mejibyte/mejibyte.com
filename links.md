@@ -151,6 +151,8 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Hal changing a lightbulb](https://www.youtube.com/watch?v=AbSehcT19u0): What fixing a bug in a large codebase feels like.
 * [Ian's Shoelace Site](https://www.fieggen.com/shoelace/index.htm): This is a gem.
 * [EIGHTHGRADE_gl00bysw0rld082218.mov by Bo Burnham](https://www.youtube.com/watch?v=ZIljQn1x7jw)
+* [Welcome to the internet by Bo Burnham](https://www.youtube.com/watch?v=k1BneeJTDcU)
+* [CEO, Entrepreneur, Born in 1964](https://www.youtube.com/watch?v=lI5w2QwdYik)
 
 ## Music
 
