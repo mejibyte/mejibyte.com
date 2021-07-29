@@ -150,7 +150,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [The Aztec Death Whistle](https://www.youtube.com/watch?v=I9QuO09z-SI) (also [this one](https://www.youtube.com/watch?v=_Sw0VCtZs-g)): The scariest sound you'll ever hear.
 * [Hal changing a lightbulb](https://www.youtube.com/watch?v=AbSehcT19u0): What fixing a bug in a large codebase feels like.
 * [Ian's Shoelace Site](https://www.fieggen.com/shoelace/index.htm): This is a gem.
-
+* [EIGHTHGRADE_gl00bysw0rld082218.mov by Bo Burnham](https://www.youtube.com/watch?v=ZIljQn1x7jw)
 
 ## Music
 
