@@ -37,6 +37,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [yourbasic.org](https://yourbasic.org/): Useful articles about Golang. Very simple and clear layout. No popups! No "Accept Cookies" buttons! No "Sign up to our newsletter" forms! Just a simple website with useful information. What a radical idea!
 * [manybutfinite.com](https://manybutfinite.com/): Some really cool articles about low-level Linux stuff.
 * [Omar Cornut](https://www.miracleworld.net/): Creator of the [Dear ImGui](https://github.com/ocornut/imgui) library.
+* [Fabrice Bellard](https://bellard.org/): Author of ffmpeg, QEMU, TCC (tiny C compiler) and other cool projects.
 
 ## Software
 
