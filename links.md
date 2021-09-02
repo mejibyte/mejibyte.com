@@ -57,11 +57,11 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 
 ## Programming
 
-* [Linus Torvald's first commit on Git](https://git.kernel.org/pub/scm/git/git.git/commit/?id=e83c5163316f89bfbde7d9ab23ca2e25604af290): Extremely interesting read. ([Hacker News thread.](https://news.ycombinator.com/item?id=8650483))
+* [Linus Torvald's first commit on Git](https://git.kernel.org/pub/scm/git/git.git/commit/?id=e83c5163316f89bfbde7d9ab23ca2e25604af290): Extremely interesting read. ([HN thread.](https://news.ycombinator.com/item?id=8650483))
 * [The history of the first 32 ASCII characters](http://www.catb.org/esr/faqs/things-every-hacker-once-knew/#_ascii)
 * [The history of UTF-8 by Rob Pike](https://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt)
 * [The first release of Bitcoin](https://web.archive.org/web/20091127010808/http://sourceforge.net/projects/bitcoin/files/)
-
+* [Obfuscated Image Decoder](http://eastfarthing.com/blog/2020-09-14-decoder/)
 
 ### Algorithms & Data Structures
 * [Fisher-Yates Shuffle algorithm](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle): O(n) unbiased random permutation.
