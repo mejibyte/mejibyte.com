@@ -61,6 +61,11 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 
 [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/): A collection of old school fonts. Amazing!
 
+## Hardware
+
+* [PinePhone](https://www.pine64.org/pinephone/): A Linux phone.
+* [Raspberry Pi](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/): An ARM computer that fits in your hand.
+
 ## Programming
 
 * [Linus Torvald's first commit on Git](https://git.kernel.org/pub/scm/git/git.git/commit/?id=e83c5163316f89bfbde7d9ab23ca2e25604af290): Extremely interesting read. ([HN thread.](https://news.ycombinator.com/item?id=8650483))
@@ -97,6 +102,7 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 ### Machine Learning
 * [MediaPipe](https://google.github.io/mediapipe/)
 * [Monster Mash](https://ai.googleblog.com/2021/04/monster-mash-sketch-based-tool-for.html)
+* [Guesslang](https://github.com/yoeo/guesslang) and [GuesslangTools](https://github.com/yoeo/guesslangtools): A simple ML model to auto-detect a programming language.
 
 ## Operating Systems
 
