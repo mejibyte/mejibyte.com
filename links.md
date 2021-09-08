@@ -38,6 +38,8 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [manybutfinite.com](https://manybutfinite.com/): Some really cool articles about low-level Linux stuff.
 * [Omar Cornut](https://www.miracleworld.net/): Creator of the [Dear ImGui](https://github.com/ocornut/imgui) library.
 * [Fabrice Bellard](https://bellard.org/): Author of ffmpeg, QEMU, TCC (tiny C compiler) and other cool projects.
+* [Fabien Sanglard](https://fabiensanglard.net/): Author of the [Game Engine Black Books](https://fabiensanglard.net/gebb/index.html).
+* [Andrew Kensler](http://eastfarthing.com/): Author of the [Business Card Ray Tracer](http://eastfarthing.com/blog/2016-01-12-card/).
 
 ## Software
 
