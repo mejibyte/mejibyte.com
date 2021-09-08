@@ -94,8 +94,10 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 
 ## Operating Systems
 
-* [Linux from Scratch](http://www.linuxfromscratch.org/): A book teaching you how to build your own Linux distro from scratch.
+* [Linux from Scratch](http://www.linuxfromscratch.org/): A book teaching you how to build your own minimal Linux distro from scratch.
 * [Creating an OS from scratch](https://github.com/cfenollosa/os-tutorial): I really want to do this!
+* [Arch Linux](https://archlinux.org/): My main OS. Finally a respectful Linux distro that doesn't assume you're stupid.
+* [SerenityOS](https://serenityos.org/): Interesting project. I would love to play with this when I have some time.
 
 ## Keyboards
 
