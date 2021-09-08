@@ -50,6 +50,9 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Many Tricks](https://manytricks.com/): A small software company that builds high quality software for Mac users.
 * [Contexts](https://contexts.co/): This is a mandatory app for Mac users.
 
+### Reverse Engineering
+
+* [BinaryNinja](https://binary.ninja/)
 
 ### Fonts
 
