@@ -41,6 +41,8 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [Fabien Sanglard](https://fabiensanglard.net/): Author of the [Game Engine Black Books](https://fabiensanglard.net/gebb/index.html).
 * [Andrew Kensler](http://eastfarthing.com/): Author of the [Business Card Ray Tracer](http://eastfarthing.com/blog/2016-01-12-card/).
 * [Simon Howard](https://soulsphere.org/): Author of [Chocolate Doom](https://www.chocolate-doom.org/wiki/index.php/Chocolate_Doom).
+* [Casey Muratori](https://caseymuratori.com/): One of my heroes.
+* 
 
 ## Software
 
@@ -68,11 +70,13 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 
 ## Programming
 
+### Curiosities
 * [Linus Torvald's first commit on Git](https://git.kernel.org/pub/scm/git/git.git/commit/?id=e83c5163316f89bfbde7d9ab23ca2e25604af290): Extremely interesting read. ([HN thread.](https://news.ycombinator.com/item?id=8650483))
 * [The history of the first 32 ASCII characters](http://www.catb.org/esr/faqs/things-every-hacker-once-knew/#_ascii)
 * [The history of UTF-8 by Rob Pike](https://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt)
 * [The first release of Bitcoin](https://web.archive.org/web/20091127010808/http://sourceforge.net/projects/bitcoin/files/)
 * [Obfuscated Image Decoder](http://eastfarthing.com/blog/2020-09-14-decoder/)
+* [Binary Golf Grand Prix, 2021](https://n0.lol/bggp/2021/)
 
 ### Algorithms & Data Structures
 * [Fisher-Yates Shuffle algorithm](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle): O(n) unbiased random permutation.
@@ -103,6 +107,9 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [MediaPipe](https://google.github.io/mediapipe/)
 * [Monster Mash](https://ai.googleblog.com/2021/04/monster-mash-sketch-based-tool-for.html)
 * [Guesslang](https://github.com/yoeo/guesslang) and [GuesslangTools](https://github.com/yoeo/guesslangtools): A simple ML model to auto-detect a programming language.
+
+## Cryptocurrencies
+* [Learn me a Bitcoin](https://learnmeabitcoin.com/)
 
 ## Operating Systems
 
