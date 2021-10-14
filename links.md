@@ -76,6 +76,8 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [The first release of Bitcoin](https://web.archive.org/web/20091127010808/http://sourceforge.net/projects/bitcoin/files/)
 * [Obfuscated Image Decoder](http://eastfarthing.com/blog/2020-09-14-decoder/)
 * [Binary Golf Grand Prix, 2021](https://n0.lol/bggp/2021/)
+* [The International Obfuscated C Code Contest](https://www.ioccc.org/)
+* [SHA-256 animated](https://github.com/in3rsha/sha256-animation)
 
 ### Algorithms & Data Structures
 * [Fisher-Yates Shuffle algorithm](https://en.wikipedia.org/wiki/Fisher%E2%80%93Yates_shuffle): O(n) unbiased random permutation.
