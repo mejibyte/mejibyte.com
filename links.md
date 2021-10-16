@@ -112,6 +112,9 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 ## Cryptocurrencies
 * [Learn me a Bitcoin](https://learnmeabitcoin.com/)
 
+## Networking
+* [UDP Hole Punching by ZeroTier](https://www.zerotier.com/2014/08/25/the-state-of-nat-traversal/)
+
 ## Operating Systems
 
 * [Linux from Scratch](http://www.linuxfromscratch.org/): A book teaching you how to build your own minimal Linux distro from scratch.
