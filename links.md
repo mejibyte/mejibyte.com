@@ -199,9 +199,10 @@ These sites take me down memory lane to a time of IRC, FTP servers, GeoCities an
 * [John Williams: Raiders March (From Indiana Jones)](https://www.youtube.com/watch?v=IgncJgSbbck)
 * [John Williams: Marion's Theme (From Indiana Jones)](https://www.youtube.com/watch?v=kNTuEKg7lrU)
 
-### Favorite Bach pieces
+### Piano pieces
 
 * [Prelude 6, Well Tempered Clavier, Book 1](https://www.youtube.com/watch?v=PIS76X17Mf8): I want to learn this one so hard.
 * [Prelude 2, Well Tempered Clavier, Book 1](https://www.youtube.com/watch?v=HB8-w5CvMls): Brings me good memories. I like the fugue too.
 * [Prelude 5, Well Tempered Clavier, Book 1](https://www.youtube.com/watch?v=vHi3_k4XOrA): The three chords at the ending of the prelude are ahead of his time.
 * [Prelude in D minor, BWV 935](https://www.youtube.com/watch?v=nrqzH76tcs8)
+* [Moonlight Sonata, 3rd Movement](https://youtu.be/BV7RkEL6oRc)
